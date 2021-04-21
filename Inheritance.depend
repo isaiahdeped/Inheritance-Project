@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1618917946 source:d:\cpp programming\inheritance\main.cpp
+	<iostream>
+	"Student.h"
+
+1618917472 d:\cpp programming\inheritance\include\student.h
+	"Person.h"
+
+1618917132 d:\cpp programming\inheritance\include\person.h
+
+1618917806 source:d:\cpp programming\inheritance\src\person.cpp
+	"Person.h"
+	<cassert>
+
+1618917769 source:d:\cpp programming\inheritance\src\student.cpp
+	"Student.h"
+	"iostream"
+	<cassert>
+
